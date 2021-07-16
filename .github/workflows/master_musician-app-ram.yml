@@ -52,5 +52,5 @@ jobs:
       with:
         app-name: 'musician-app-ram'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_305503b689ca412483f79db3707dbc77 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_36c32d7eaca04a87bde11e551092127d }}
         package: .
